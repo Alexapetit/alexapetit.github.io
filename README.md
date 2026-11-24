@@ -1,2 +1,2 @@
-# alexapetit.gitbub.io
+# alexapetit.github.io
 Alexa Lopez Github page portfolio 
